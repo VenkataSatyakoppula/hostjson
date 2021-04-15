@@ -1,4 +1,4 @@
-var CPU = [
+[
 {  "Product_id":1,
     "Name":"Intel i5 8th gen",
     "Price":"120$",
